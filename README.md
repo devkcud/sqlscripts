@@ -1,7 +1,4 @@
-<h1 style="height: 100px; display: flex; align-items: center; gap:20px; justify-content: center; font-family: 'Raleway'; font-size: 40px; font-weight: 600">
-    <img src="img/mysql_logo.png" width="100">
-    (my)SQL Scripts
-</h1>
+# (my)SQL Scripts
 
 ## About
 
